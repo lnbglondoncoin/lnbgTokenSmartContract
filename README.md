@@ -15,7 +15,7 @@ Setup
 Clone this repository:
 
 
-https://github.com/MohsinAliSolangi/CreedCoin
+https://github.com/lordneilgibson/lnbgTokenSmartContract
 Install dependencies:
 
 
@@ -25,7 +25,7 @@ Configure your Hardhat create ENV File and set Variable valuse of hardhat config
 
 
 module.exports = {
-  solidity: "0.8.0",
+  solidity: "0.8.19",
   networks: {
     bscTestnet: {
       url: "https://data-seed-prebsc-1-s1.binance.org:8545/",
